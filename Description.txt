@@ -1,0 +1,6 @@
+Column Containing NA values are directly dropped
+Outliers are imputed using IQR
+Data is not normalized
+And linear regression is applied
+
+RMSE=242
